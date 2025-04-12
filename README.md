@@ -11,3 +11,8 @@ This project includes a training notebook:
 1. Open the Jupyter Notebook:
    ```bash
    jupyter notebook Training.ipynb
+### Run Flask Server
+
+After run Training.ipynb
+   ```bash
+   streamlit run app.py
